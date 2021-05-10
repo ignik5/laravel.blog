@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div class="content-wrapper">
+
         <!-- Content Header (Page header) -->
         <section class="content-header">
             <diav class="container-fluid">
@@ -50,5 +50,5 @@
 
         </section>
         <!-- /.content -->
-    </div>
+
 @endsection
